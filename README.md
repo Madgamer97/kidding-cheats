@@ -52,4 +52,29 @@ Date: 18/09/2018
 #include<conio.h>
 void main()
 {
+int a=10,b=20,c;
+//it is a pre-defined function which clears the console screen
+clrscr();
+//adding both numbers is simple and fundamental
+c=a+b;
+//this will display the output
+printf("the result is %d",c);
+getch();
+}
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Description: program for addition of no.s by entering the values from user
+
+Author: Madgamer97
+
+Date: 18/09/2018
+
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a,b,c;
+//it is a pre-defined function which clears the console screen
+clrscr();
+//
 
