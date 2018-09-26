@@ -57,6 +57,8 @@ int a=10,b=20,c;
 clrscr();
 //adding both numbers is simple and fundamental
 c=a+b;
+//this will store the input
+scanf("%d%d",c);
 //this will display the output
 printf("the result is %d",c);
 getch();
@@ -76,5 +78,13 @@ void main()
 int a,b,c;
 //it is a pre-defined function which clears the console screen
 clrscr();
-//
+//this wil diplay the output
+printf("enter the no.s");
+//this will store the input
+scanf("%d%d",c);
+//this will diplay the output
+printf("the resultant of the no.s is %d",c);
+getch();
+}
+----------------------------------------------------------------------------------------------------------------------------------------
 
